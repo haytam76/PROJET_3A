@@ -1,0 +1,2 @@
+Il s'agit d'acquérir et d'afficher avec un rendu adéquat des images de haute dynamique produites par une caméra HDR
+utilisant un capteur Sony IMX490
