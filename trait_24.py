@@ -2,7 +2,7 @@ from PIL import Image
 import numpy as np
 
 # Chemin vers le fichier RAW
-file_path = 'Image0_BGR24.raw'
+file_path = 'Image0_RGB24.raw'
 
 # Dimensions de l'image (exemple)
 height = 1860
