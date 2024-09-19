@@ -1,0 +1,7 @@
+pourquoi évoquer Matlab si python peut tout manipuler ?
+projet sous forme de acquisition - traitement - optimisation ?
+partie acquisition(piloter la caméra en utilisant les librairies python, quelles sont les limitations du SDK déjà en place?)
+la caméra et le capteur sont ils déjà correctement configurés?(exposition, gain...)
+qu'est ce qui pose réellement problème pour le 24 bits(capacité de calcul?...)
+pour l affichage 24 pillow marche bien mais la normalisation + gamma non (pillow doit utiliser un algo implicite)
+
