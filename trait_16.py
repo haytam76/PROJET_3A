@@ -23,7 +23,7 @@ plt.show()
 image_normalized = image_data / np.max(image_data)
 
 # Appliquer la correction gamma
-gamma = 1
+gamma = 0.1
 image_gamma_corrected = np.power(image_normalized, gamma)
 
 # Convertir l'image en 8 bits (0-255)
